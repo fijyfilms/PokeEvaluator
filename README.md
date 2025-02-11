@@ -3,9 +3,7 @@ Are you a Pokémon TCG collector, investor, or trader? PokeEvaluator is a powerf
 
 **Key Features**
 
-🔍 **Instant Price Lookup**
-
-Enter a Pokémon card name and number, and the software fetches real-time pricing for:
+🔍 **Instant Price Lookup** - Enter a Pokémon card name and number, and the software fetches real-time pricing for:
 
 ✅ Grade 10 (Gem Mint)
 
@@ -14,9 +12,7 @@ Enter a Pokémon card name and number, and the software fetches real-time pricin
 ✅ Ungraded Value
 
 
-**📊 Organized Table View**
-
-All fetched data is displayed in a neat table with the following columns:
+**📊 Organized Table View** - All fetched data is displayed in a neat table with the following columns:
 
 ✅ Card Name
 
