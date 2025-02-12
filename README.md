@@ -62,5 +62,5 @@ Track the total value of your collection and see your most expensive card at a g
 
 🚀 More features coming soon, including better TCG event tools, batch price fetching, and more!
 
-💬 Got feature requests or questions? Drop them below—I’d love to improve this tool for the community.
+💬 Got feature requests or questions? E-mail me at: Fijy@Fijy.net
 
